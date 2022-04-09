@@ -12,7 +12,7 @@
     "test": "jest"
   },
   "publishConfig": {
-    "registry": "https://npm.pkg.github.com"
+    "@shahidazim:registry": "https://npm.pkg.github.com"
   },
   "repository": {
     "type": "git",
