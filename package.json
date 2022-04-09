@@ -11,6 +11,9 @@
     "tsc": "tsc -p tsconfig.json && tsc -p tsconfig-cjs.json",
     "test": "jest"
   },
+  "publishConfig": {
+    "registry": "https://npm.pkg.github.com"
+  },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/shahidazim/products-package-cosmosdb.git"
