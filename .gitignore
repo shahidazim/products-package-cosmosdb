@@ -105,3 +105,6 @@ dist
 
 # Generated lib folder
 lib/
+
+# npmrc
+.npmrc
