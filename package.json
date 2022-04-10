@@ -1,6 +1,5 @@
 {
   "name": "@shahidazim/products-package-cosmosdb",
-  "version": "1.0.0",
   "description": "",
   "main": "./lib/cjs/index.js",
   "module": "./lib/esm/index.js",
